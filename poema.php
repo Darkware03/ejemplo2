@@ -1,5 +1,5 @@
 <?php
-class Poemas{
+class lo_cambie{
   
     // database connection and table name
     private $conn;
